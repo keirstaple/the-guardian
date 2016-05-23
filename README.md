@@ -2,7 +2,7 @@
 
 #### _Replicate The Guardian's responsive design_
 
-#### By _**{Keir Staple}**_
+#### By _**Keir Staple**_
 
 ## Description
 
@@ -22,7 +22,7 @@ _Contact Keir Staple at keirstaple@comcast.net_
 
 ## Technologies Used
 
-_{This page was created using the HTML, CSS, and Javascript languages, as well as the Bootstrap and jQuery libraries. Spec tests were run using Mocha and Chai.}_
+_This page was created using HTML and CSS_
 
 ### License
 
