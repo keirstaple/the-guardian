@@ -22,7 +22,7 @@ _Contact Keir Staple at keirstaple@comcast.net_
 
 ## Technologies Used
 
-_This page was created using HTML and CSS_
+_This page was created using HTML, CSS and Sass_
 
 ### License
 
